@@ -7,7 +7,7 @@
 
 ## 🌐 Live Application
 
-**👉 [https://dev.d276ks6kki9t7u.amplifyapp.com/](https://dev.d276ks6kki9t7u.amplifyapp.com/)**
+**👉 [https://staging.d2fejbr34bmpfo.amplifyapp.com//](https://staging.d2fejbr34bmpfo.amplifyapp.com//)**
 
 ---
 
